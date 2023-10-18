@@ -1,14 +1,11 @@
-# CODSOFT
-# Task 1 Tic tac toe game
+**CODSOFT**
+**Task 1 Tic tac toe game**
 
-
-Certainly, here's a concise README for a Tic Tac Toe game implemented using tkinter:
-
-Tic Tac Toe Game (Tkinter)
-Overview
-A simple Tic Tac Toe game built with Python's tkinter library.
+**Tic Tac Toe Game (Tkinter)**
+**Overview**
+"*"A simple Tic Tac Toe game built with Python's tkinter library.
 Play against a friend on a user-friendly graphical interface.
-How to Play
+**How to Play**
 Clone or download the repository to your local machine.
 Run the game by executing the provided Python script (e.g., tictactoe.py).
 Enjoy a game of Tic Tac Toe with a friend!
