@@ -3,7 +3,7 @@
 
 **Tic Tac Toe Game (Tkinter)**
 **Overview**
-"*"A simple Tic Tac Toe game built with Python's tkinter library.
+*A simple Tic Tac Toe game built with Python's tkinter library.
 Play against a friend on a user-friendly graphical interface.
 **How to Play**
 Clone or download the repository to your local machine.
